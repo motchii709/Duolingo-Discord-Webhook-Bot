@@ -1,7 +1,7 @@
 // main.gs
 
 function sendSixCharacterMessage() {
-  const webhookUrl = "https://discord.com/api/webhooks/XXX/YYY";
+  const webhookUrl = "Webhookをここに";
   
   const characters = [
     {
