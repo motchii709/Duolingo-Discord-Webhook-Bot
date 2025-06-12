@@ -8,7 +8,3 @@ Google Apps Script を使って、ランダムなDuoメッセージを Discord �
 - 毎日23時に投稿
 - メッセージとアイコンはランダム
 - `@everyone` で全体通知
-
-## 注意
-
-- `webhookUrl` はセキュリティのためコードから削除してください。
