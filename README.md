@@ -5,6 +5,9 @@ Google Apps Script を使って、ランダムなDuoメッセージを Discord �
 ## 概要
 
 - GASで書かれたWebhook送信スクリプト
-- 毎日23時に投稿
 - メッセージとアイコンはランダム
 - `@everyone` で全体通知
+
+## 使い方
+- GASにmain.gsの内容をコピペしてWebhookをペースト  
+- 適当に時間指定でトリガーすればOK!
