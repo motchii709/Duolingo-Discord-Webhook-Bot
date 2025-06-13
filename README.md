@@ -5,7 +5,7 @@ Google Apps Script を使って、ランダムなDuoメッセージを Discord �
 ## 概要
 
 - GASで書かれたWebhook送信スクリプト
-- メッセージとアイコンはランダム
+- ランダムなメッセージとアイコン
 - `@everyone` で全体通知
 
 ## 使い方
